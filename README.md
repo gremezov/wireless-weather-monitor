@@ -7,3 +7,9 @@ The system is currently capable of logging and displaying pressure and temperatu
 ## usage
 **WARNING:** It is recommended not to connect the sensor node to the internet but rather to use a local network instead because there is currently
 no support for SSL on the sensor node and therefore the HTTP traffic may expose sensitive information such as the server API key.
+
+## hardware
+![Sensor setup](images/sensor_setup.jpeg)
+
+## screenshots
+![Web interface for downloading data](images/interface_screenshot.png)

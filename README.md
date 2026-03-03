@@ -12,4 +12,15 @@ no support for SSL on the sensor node and therefore the HTTP traffic may expose 
 ![Sensor setup](images/sensor_setup.jpeg)
 
 ## screenshots
-![Web interface for downloading data](images/interface_screenshot.png)
+
+### Web interface for downloading sensor data
+![Web interface for downloading sensor data](images/interface_screenshot.png)  
+
+### Example Excel file with sensor data
+![Example Excel file with sensor data](images/excel_file_screenshot.png)  
+
+### Example plot of pressure data
+Measurements were taken from approximately 6 PM until 1 AM.  
+The graph was made using gnuplot.  
+  
+![Example plot of pressure data](images/pressure_plot.png)  
